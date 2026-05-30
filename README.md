@@ -16,7 +16,7 @@
 
 [![Email](https://img.shields.io/badge/Gmail-soham.dehankar.work%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:soham.dehankar.work@gmail.com)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-soham__414-181717?style=flat-square&logo=github)](https://github.com/soham-414)
+[![GitHub](https://img.shields.io/badge/GitHub-soham-414-181717?style=flat-square&logo=github)](https://github.com/soham-414)
 &nbsp;&nbsp;
 [![](https://komarev.com/ghpvc/?username=soham-414&style=flat-square&color=A78BFA&label=Profile+Views)](https://github.com/soham-414)
 
