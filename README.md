@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Soham%20Dehankar&fontSize=46&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Soham%20Dehankar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20%7C%20ML%20%7C%20NLP%20%E2%80%94%20B.Tech%20CSE%2C%20Nagpur&descAlignY=58&descColor=c4b5fd&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer;Data+Analyst+%7C+Python+Developer;Turning+raw+data+into+decisions;%F0%9F%9F%A2+Open+to+Internship+%E2%80%94+June+2026" alt="Typing SVG"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20INTERNSHIP-June%20%E2%80%93%20Nov%202026-22c55e?style=for-the-badge&labelColor=0d1117&color=22c55e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Domain-AI%20%2F%20ML%20%7C%20Data%20Analytics-A78BFA?style=for-the-badge&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Location-Nagpur%2C%20MH-60a5fa?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=50%2C000+reviews+processed+%7C+NLP+%2B+ANN+pipeline;13+IPL+seasons+analysed+%7C+3+classifiers+benchmarked;10+complex+SQL+queries+%7C+CTEs+%2B+window+functions;%F0%9F%9F%A2+Seeking+Data+%2F+ML+Internship+%E2%80%94+June+2026" alt="Typing SVG"/>
 
 <br/><br/>
 
-[![Email](https://img.shields.io/badge/Gmail-soham.dehankar.work%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:soham.dehankar.work@gmail.com)
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20AVAILABLE-June%20%E2%80%93%20Nov%202026-22c55e?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-ML%20%7C%20NLP%20%7C%20SQL%20Analytics-A78BFA?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Nagpur%2C%20India-60a5fa?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
+
+[![Email](https://img.shields.io/badge/Gmail-soham.dehankar.wolk@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:soham.dehankar.wolk@gmail.com)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-soham-414-181717?style=flat-square&logo=github)](https://github.com/soham-414)
+[![GitHub](https://img.shields.io/badge/GitHub-soham--414-181717?style=flat-square&logo=github)](https://github.com/soham-414)
 &nbsp;&nbsp;
 [![](https://komarev.com/ghpvc/?username=soham-414&style=flat-square&color=A78BFA&label=Profile+Views)](https://github.com/soham-414)
 
@@ -24,131 +24,88 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-```python
-class SohamDehankar:
-    role       = ["AI / ML Engineer", "Data Analyst", "Python Developer"]
-    education  = "B.Tech CSE · GH Raisoni College of Engineering, Nagpur (2023–27)"
-    cgpa       = 7.5
-    skills     = ["Machine Learning", "Data Analysis", "EDA", "SQL", "Data Pipelines"]
-    available  = "Internship · Jun–Nov 2026 · On-site / Hybrid / Remote"
-    contact    = "soham.dehankar.work@gmail.com"
+Final-year CS student at GH Raisoni University with a focus on **machine learning, NLP, and SQL analytics**. I build complete, documented projects — from raw data ingestion to model evaluation — and put everything on GitHub.
 
-    def currently(self):
-        return [
-            "📊 Building real-world data analysis & ML projects",
-            "🧠 Deepening knowledge in scikit-learn, TensorFlow, PyTorch",
-            "🔍 Exploring data pipelines and feature engineering",
-            "💼 Actively seeking AI/ML · Data Analytics internship"
-        ]
-```
+- 4 end-to-end projects covering EDA, deep learning, NLP, and advanced SQL
+- Comfortable across the full pipeline: cleaning → feature engineering → modelling → evaluation
+- Seeking a **6-month internship in Data / ML / Analytics** starting June 2026
 
 ---
 
-## 🛠️ Tech Stack
+## Projects
 
-**Languages**
+### [NLP Sentiment Analysis + ANN](https://github.com/soham-414/nlp-sentimentanalysis)
+`Python` `NLTK` `TF-IDF` `scikit-learn` `TensorFlow` `Keras`
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-**Data Analysis & Visualization**
-
-![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3C7FBF?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-**Machine Learning & AI**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- Built a full preprocessing pipeline (tokenisation, stopword removal, lemmatisation) on **50,000 IMDB reviews**
+- Extracted features using TF-IDF with bigrams; trained a Keras ANN (Dense 256→128→64, Dropout, EarlyStopping)
+- Benchmarked against Naïve Bayes and Logistic Regression; evaluated with ROC-AUC and classification reports
 
 ---
 
-## 📂 Featured Projects
+### [Retail Sales & Customer Analytics](https://github.com/soham-414/retail-sql-analytics)
+`Python` `SQLite` `Pandas` `Matplotlib` `Seaborn`
 
-| # | Project | What it does | Stack | Status |
-|---|---------|-------------|-------|--------|
-| 01 | **[Student Performance EDA](https://github.com/soham-404/student-performance-eda)** | Deep-dive EDA on student dataset — score trends, attendance correlation, visual storytelling | Python · Pandas · Matplotlib · Seaborn | ✅ Complete |
-| 02 | **[IPL Match Analysis & Win Predictor](https://github.com/soham-404/ipl-match-analysis)** | Analysed 10+ years of IPL data — toss impact, venue stats, top performers + match outcome predictor | Python · Pandas · Plotly · scikit-learn | ✅ Complete |
-| 03 | **[ML Classification Pipeline](#)** | End-to-end ML pipeline — preprocessing, model training, evaluation, comparison | scikit-learn · Pandas · Jupyter | 🔨 Building |
+- Loaded ~10,000 records into SQLite; wrote **10 analytical queries** using CTEs, LAG, RANK, ROW_NUMBER, SUM OVER, and HAVING subqueries
+- Found: discounted products (>20%) consistently generate net losses; Technology sub-category achieves **~17% profit margin** — highest across all categories
 
 ---
 
-## 📊 GitHub Stats
+### [IPL Match Analysis & Win Predictor](https://github.com/soham-414/ipl-matchanalysis)
+`Python` `Pandas` `Plotly` `Seaborn` `scikit-learn`
+
+- Analysed **13 seasons of IPL data (1,095 matches)** — toss impact, venue win rates, batting and bowling trends
+- Compared Logistic Regression, Random Forest, and Gradient Boosting via **5-fold cross-validation + ROC-AUC**
+
+---
+
+### [Student Performance — EDA](https://github.com/soham-414/student-performance-eda)
+`Python` `Pandas` `SciPy` `Matplotlib` `Seaborn` `scikit-learn`
+
+- End-to-end EDA: null handling, IQR outlier detection, correlation heatmaps, t-tests and chi-square validation
+- Compared Logistic Regression vs. Decision Tree with stratified train-test split
+
+---
+
+## Skills
+
+| Area | Tools |
+|------|-------|
+| **Languages** | Python, SQL |
+| **ML / AI** | scikit-learn, TensorFlow, Keras, Model Evaluation |
+| **NLP** | NLTK, TF-IDF, Text Preprocessing, Sentiment Analysis |
+| **Data & Visualisation** | Pandas, NumPy, Matplotlib, Seaborn, Plotly |
+| **Databases** | MySQL, SQLite |
+| **Tools** | Jupyter, Git, GitHub, VS Code |
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=soham-404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=soham-414&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars"/>
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham-404&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=soham-404&theme=tokyonight&hide_border=true" height="150"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham-414&layout=compact&theme=tokyonight&hide_border=true&langs_count=5"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## Education
 
-<div align="center">
+**G H Raisoni University, Amravati** — B.Tech Computer Science & Engineering `2023–2027`
 
-![](https://github-profile-trophy.vercel.app/?username=soham-404&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)
-
-</div>
+Relevant coursework: Python for Data Science · Deep Learning · Algorithms · Database Management Systems · Data Structures · Operating Systems
 
 ---
 
-## 🎓 Education
+## Contact
 
-**GH Raisoni College of Engineering, Nagpur** &nbsp;|&nbsp; B.Tech Computer Science Engineering &nbsp;|&nbsp; `2023 – 2027` &nbsp;|&nbsp; CGPA: **7.5**
-
-`Python for Data Science` &nbsp;·&nbsp; `Introduction to Deep Learning` &nbsp;·&nbsp; `Design & Analysis of Algorithms` &nbsp;·&nbsp; `DBMS` &nbsp;·&nbsp; `Computer Architecture` &nbsp;·&nbsp; `Mobile Computing`
-
----
-
-## 💬 Dev Quote
+📧 [soham.dehankar.wolk@gmail.com](mailto:soham.dehankar.wolk@gmail.com) &nbsp;·&nbsp; 📍 Nagpur, Maharashtra &nbsp;·&nbsp; 💼 Open to internship from June 2026
 
 <div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-| | |
-|--|--|
-| 📧 **Email** | [soham.dehankar.work@gmail.com](mailto:soham.dehankar.work@gmail.com) |
-| 📍 **Location** | Nagpur, Maharashtra — On-site / Hybrid / Remote |
-| 💼 **Seeking** | AI/ML · Data Analytics Internship · June–Nov 2026 |
-| ⚡ **Response time** | Within 24 hours |
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=90&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 </div>
