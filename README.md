@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-[![Email](https://img.shields.io/badge/Gmail-soham.dehankar.wolk@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:soham.dehankar.wolk@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-soham.dehankar.work@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:soham.dehankar.wolk@gmail.com)
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-soham--414-181717?style=flat-square&logo=github)](https://github.com/soham-414)
 &nbsp;&nbsp;
@@ -104,7 +104,7 @@ Relevant coursework: Python for Data Science · Deep Learning · Algorithms · D
 
 ## Contact
 
-📧 [soham.dehankar.wolk@gmail.com](mailto:soham.dehankar.wolk@gmail.com) &nbsp;·&nbsp; 📍 Nagpur, Maharashtra &nbsp;·&nbsp; 💼 Open to internship from June 2026
+📧 [soham.dehankar.work@gmail.com](mailto:soham.dehankar.work@gmail.com) &nbsp;·&nbsp; 📍 Nagpur, Maharashtra &nbsp;·&nbsp; 💼 Open to internship from June 2026
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
